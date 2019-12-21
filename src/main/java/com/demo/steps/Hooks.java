@@ -13,6 +13,7 @@ public class Hooks {
 	public void initilizer() {
 	obj1.initilize();
 	System.out.println("hello");
+	System.out.println("hiii");
 	}
 	
 	@After
