@@ -21,7 +21,7 @@ public class Hooks {
 		obj1.close();
 
 		System.out.println("Hello sunita");
-		System.out.println("hiii");
+		System.out.println("hiii sunita");
 
 	}
 }
