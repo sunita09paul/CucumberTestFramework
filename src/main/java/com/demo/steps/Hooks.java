@@ -12,7 +12,6 @@ public class Hooks {
 	@Before
 	public void initilizer() {
 	obj1.initilize();	
-	System.out.println("Driver initilize");
 	}
 	
 	@After
