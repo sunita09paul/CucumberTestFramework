@@ -19,5 +19,6 @@ public class Hooks {
 	@After
 	public void closeDriver() {
 		obj1.close();
+		System.out.println("hiii");
 	}
 }
